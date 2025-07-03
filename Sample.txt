@@ -1,0 +1,3 @@
+Reading the file content:
+Line1: This is sample text file.
+LIne2: It contains multiple lines.
